@@ -1,16 +1,80 @@
-## Hi there 👋
+# Olá, eu sou o Thiago Galetto 👋
 
-<!--
-**thiagogaletto/thiagogaletto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Senior Data Analytics & Business Intelligence Consultant**
+🇧🇷 São Paulo, Brasil
 
-Here are some ideas to get you started:
+Transformo dados complexos em **insights acionáveis** que impulsionam decisões estratégicas.
+Mais de **10 anos de experiência** em BI, analytics, visualização de dados e transformação digital.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌐 Onde me encontrar
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/thiagogaletto">
+    <img src="https://img.shields.io/badge/LinkedIn-thiagogaletto-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:thiagogaletto@gmail.com">
+    <img src="https://img.shields.io/badge/Email-thiagogaletto@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🧠 O que eu faço
+
+- 📊 Estruturação e modelagem de dados com dashboards estratégicos e interativos
+- 🔍 Análises preditivas, segmentação de clientes e mapeamento de jornadas
+- 🤖 Automação de relatórios com integração de APIs, SQL e scripts
+- 📈 Social listening e inteligência de marca para apoio à comunicação
+- 🗂️ Governança de dados, padronização de métricas e rotinas de qualidade
+- 🎯 Storytelling com dados para públicos executivos e operacionais
+
+---
+
+## 🛠️ Ferramentas & Tecnologias
+
+### Business Intelligence & Visualização
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![Neodash](https://img.shields.io/badge/Neodash-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+
+### Dados & Programação
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft&logoColor=white)
+
+### ETL & Integração
+![ETL](https://img.shields.io/badge/ETL-FF6F00?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![APIs](https://img.shields.io/badge/APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
+
+### Social Intelligence & Marketing Data
+![Facebook](https://img.shields.io/badge/Meta%20Ads-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
+![Google Ads](https://img.shields.io/badge/Google%20Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white)
+![VTEX](https://img.shields.io/badge/VTEX-F71963?style=for-the-badge&logo=vtex&logoColor=white)
+
+---
+
+## 📊 Estatísticas GitHub
+
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=thiagogaletto&show_icons=true&theme=default&count_private=true&locale=pt-br" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagogaletto&layout=compact&theme=default&locale=pt-br" />
+</p>
+
+---
+
+## 🚀 Filosofia
+
+> _"Dados sem contexto são apenas números.  
+> Meu trabalho é transformá-los em decisões que geram valor real para o negócio."_
+
+---
+
+⭐ Aberto a novas oportunidades, colaborações e projetos estratégicos em dados.
