@@ -86,13 +86,13 @@ Mais de **10 anos de experiência** em BI, analytics, visualização de dados e 
 | Ferramenta | Proficiência |
 |---|---|
 | 📊 Power BI | `████████████████████` 95% |
-| 📈 Looker Studio | `███████████████████░` 90% |
-| 🔍 Google Analytics | `██████████████████░░` 85% |
-| 🗄️ SQL | `██████████████████░░` 85% |
-| 📋 Excel / VBA | `█████████████████░░░` 80% |
-| 🐍 Python / Pandas | `██████████████░░░░░░` 65% |
-| 🔄 ETL / APIs | `█████████████░░░░░░░` 60% |
 | 📡 Social Intelligence | `████████████████████` 95% |
+| 📈 Looker Studio | `███████████████████░` 90% |
+| 📋 Excel / VBA | `███████████████████░` 90% |
+| 🔄 ETL / APIs | `███████████████████░` 90% |
+| 🔍 Google Analytics | `██████████████████░░` 85% |
+| 🗄️ SQL | `███████████████░░░░░` 70% |
+| 🐍 Python / Pandas | `██████████████░░░░░░` 65% |
 
 ---
 
