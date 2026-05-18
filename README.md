@@ -79,15 +79,13 @@ Mais de **10 anos de experiência** em BI, analytics, visualização de dados e 
   />
   <img
     align="left"
-    alt="Tecnologias"
+    alt="Linguagens mais usadas"
     height="195"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thiagogaletto&theme=default"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thiagogaletto&theme=default"
   />
 </p>
 
 <br clear="left"/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=thiagogaletto&theme=default&hide_border=true&locale=pt_BR&background=ffffff)](https://git.io/streak-stats)
 
 ---
 
