@@ -70,9 +70,11 @@ Mais de **10 anos de experiência** em BI, analytics, visualização de dados e 
 ## 📊 Estatísticas GitHub
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=thiagogaletto&show_icons=true&theme=default&count_private=true&locale=pt-br" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagogaletto&layout=compact&theme=default&locale=pt-br" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=thiagogaletto&show_icons=true&theme=default&count_private=true&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagogaletto&layout=compact&theme=default&hide_border=true" />
 </p>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=thiagogaletto&theme=default&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
 
 ---
 
