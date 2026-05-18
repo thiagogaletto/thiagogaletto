@@ -38,15 +38,14 @@ Mais de **10 anos de experiência** em BI, analytics, visualização de dados e 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
-![Neodash](https://img.shields.io/badge/Neodash-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 
 ### Dados & Programação
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft&logoColor=white)
 
 ### ETL & Integração
 ![ETL](https://img.shields.io/badge/ETL-FF6F00?style=for-the-badge&logo=apacheairflow&logoColor=white)
@@ -55,8 +54,15 @@ Mais de **10 anos de experiência** em BI, analytics, visualização de dados e 
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
 
 ### Social Intelligence & Marketing Data
-![Facebook](https://img.shields.io/badge/Meta%20Ads-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
+![Meta Ads](https://img.shields.io/badge/Meta%20Ads-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
 ![Google Ads](https://img.shields.io/badge/Google%20Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white)
+![TikTok](https://img.shields.io/badge/TikTok%20Ads-000000?style=for-the-badge&logo=tiktok&logoColor=white)
+![LinkedIn Ads](https://img.shields.io/badge/LinkedIn%20Ads-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+![Buzzmonitor](https://img.shields.io/badge/Buzzmonitor-FF6B35?style=for-the-badge&logo=rss&logoColor=white)
+![YouScan](https://img.shields.io/badge/YouScan-6C3483?style=for-the-badge&logo=searchengin&logoColor=white)
+![Stilingue](https://img.shields.io/badge/Stilingue-2ECC71?style=for-the-badge&logo=buffer&logoColor=white)
 ![VTEX](https://img.shields.io/badge/VTEX-F71963?style=for-the-badge&logo=vtex&logoColor=white)
 
 ---
