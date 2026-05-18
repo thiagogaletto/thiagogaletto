@@ -75,13 +75,13 @@ Mais de **10 anos de experiência** em BI, analytics, visualização de dados e 
     alt="GitHub Stats"
     height="200"
     style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=thiagogaletto&show_icons=true&theme=default&include_all_commits=true&locale=pt-br&hide_border=true&bg_color=ffffff"
+    src="https://readme-stats.clhrz.top/api?username=thiagogaletto&show_icons=true&theme=default&include_all_commits=true&locale=pt-br&hide_border=true&bg_color=ffffff"
   />
   <img
     align="left"
-    alt="Top Langs"
+    alt="Tecnologias"
     height="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagogaletto&theme=default&layout=compact&custom_title=Tecnologias&langs_count=9&hide_border=true&bg_color=ffffff"
+    src="https://readme-stats.clhrz.top/api/top-langs/?username=thiagogaletto&theme=default&layout=compact&custom_title=Tecnologias&langs_count=9&hide_border=true&bg_color=ffffff"
   />
 </p>
 
