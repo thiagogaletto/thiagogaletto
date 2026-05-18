@@ -70,11 +70,24 @@ Mais de **10 anos de experiência** em BI, analytics, visualização de dados e 
 ## 📊 Estatísticas GitHub
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=thiagogaletto&show_icons=true&theme=default&count_private=true&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagogaletto&layout=compact&theme=default&hide_border=true" />
+  <img
+    align="left"
+    alt="GitHub Stats"
+    height="200"
+    style="padding-right: 10px;"
+    src="https://github-readme-stats.vercel.app/api?username=thiagogaletto&show_icons=true&theme=default&include_all_commits=true&locale=pt-br&hide_border=true&bg_color=ffffff"
+  />
+  <img
+    align="left"
+    alt="Top Langs"
+    height="200"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagogaletto&theme=default&layout=compact&custom_title=Tecnologias&langs_count=9&hide_border=true&bg_color=ffffff"
+  />
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=thiagogaletto&theme=default&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
+<br clear="left"/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=thiagogaletto&theme=default&hide_border=true&locale=pt_BR&background=ffffff)](https://git.io/streak-stats)
 
 ---
 
