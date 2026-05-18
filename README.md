@@ -73,15 +73,15 @@ Mais de **10 anos de experiência** em BI, analytics, visualização de dados e 
   <img
     align="left"
     alt="GitHub Stats"
-    height="200"
+    height="195"
     style="padding-right: 10px;"
-    src="https://readme-stats.clhrz.top/api?username=thiagogaletto&show_icons=true&theme=default&include_all_commits=true&locale=pt-br&hide_border=true&bg_color=ffffff"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thiagogaletto&theme=default"
   />
   <img
     align="left"
     alt="Tecnologias"
-    height="200"
-    src="https://readme-stats.clhrz.top/api/top-langs/?username=thiagogaletto&theme=default&layout=compact&custom_title=Tecnologias&langs_count=9&hide_border=true&bg_color=ffffff"
+    height="195"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thiagogaletto&theme=default"
   />
 </p>
 
