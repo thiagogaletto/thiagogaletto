@@ -4,6 +4,7 @@
 🇧🇷 São Paulo, Brasil
 
 Transformo dados complexos em **insights acionáveis** que impulsionam decisões estratégicas.
+
 Mais de **10 anos de experiência** em BI, analytics, visualização de dados e transformação digital.
 
 ---
@@ -13,9 +14,6 @@ Mais de **10 anos de experiência** em BI, analytics, visualização de dados e 
 <p align="left">
   <a href="https://www.linkedin.com/in/thiagogaletto">
     <img src="https://img.shields.io/badge/LinkedIn-thiagogaletto-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:thiagogaletto@gmail.com">
-    <img src="https://img.shields.io/badge/Email-thiagogaletto@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
