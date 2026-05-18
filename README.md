@@ -77,15 +77,22 @@ Mais de **10 anos de experiência** em BI, analytics, visualização de dados e 
     style="padding-right: 10px;"
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thiagogaletto&theme=default"
   />
-  <img
-    align="left"
-    alt="Linguagens mais usadas"
-    height="195"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thiagogaletto&theme=default"
-  />
 </p>
 
 <br clear="left"/>
+
+### 🎯 Nível de Proficiência — Ferramentas & Tecnologias
+
+| Ferramenta | Proficiência |
+|---|---|
+| 📊 Power BI | `████████████████████` 95% |
+| 📈 Looker Studio | `███████████████████░` 90% |
+| 🔍 Google Analytics | `██████████████████░░` 85% |
+| 🗄️ SQL | `██████████████████░░` 85% |
+| 📋 Excel / VBA | `█████████████████░░░` 80% |
+| 🐍 Python / Pandas | `██████████████░░░░░░` 65% |
+| 🔄 ETL / APIs | `█████████████░░░░░░░` 60% |
+| 📡 Social Intelligence | `████████████████████` 95% |
 
 ---
 
