@@ -65,6 +65,33 @@ Mais de **10 anos de experiência** em BI, analytics, visualização de dados e 
 
 ---
 
+## 🗂️ Projetos em Destaque
+
+### 💼 Cases Profissionais
+
+| Projeto | Descrição | Link |
+|---|---|---|
+| 🏆 Featured Cases Portfolio | Cases profissionais selecionados — Nokia, Marketing Analytics, Automation & Data Integration, RD Station | [ver projeto →](https://thiagogaletto.github.io/featured-cases-portfolio) |
+
+### 📊 Dashboards & Analytics
+
+| Projeto | Descrição | Link |
+|---|---|---|
+| 👥 People Analytics Dashboard | Pipeline SQL → Python → Power BI para RH de rede varejista — headcount, turnover, demografia e performance | [ver projeto →](https://thiagogaletto.github.io/projeto-dashboard-people-analytics) |
+| 💰 Cash Flow Dashboard | Dashboard financeiro de fluxo de caixa com Power BI — R$59,5M receita, margem 64,8%, análise YoY | [ver projeto →](https://thiagogaletto.github.io/projeto-dashboard-fluxo-de-caixa-datab) |
+
+### 🔬 Estudos Estatísticos & Exploratórios
+
+| Projeto | Descrição | Link |
+|---|---|---|
+| 🧮 Complete Statistical Analysis with Python | 13 técnicas estatísticas aplicadas — Pearson, R², RFM, Cohort, Regressão OLS, t-test e mais | [ver projeto →](https://thiagogaletto.github.io/analise-estatistica-completa-python) |
+| 🏙️ Pearson Correlation – Brazilian HDI | Correlação GDP × IDHM em 5.567 municípios brasileiros — impacto de outliers no coeficiente | [ver projeto →](https://thiagogaletto.github.io/analise-correlacao-associacao-idhm-brasil) |
+| 🚚 Spearman Correlation – Logistics Operations | Análise diagnóstica de operação logística — correlação Volumes × Frete (0,929) | [ver projeto →](https://thiagogaletto.github.io/analise-diagnostica-logistica) |
+| 🏦 Bank Marketing Analysis | EDA de perfil de clientes de campanha bancária — 9.684 clientes, taxa de conversão 49,3% | [ver projeto →](https://thiagogaletto.github.io/analise-exploratoria-bank-marketing) |
+| ✈️ Government Travel Transparency | Análise exploratória de viagens a serviço do Governo Federal em 2023 com Python | [ver projeto →](https://thiagogaletto.github.io/portal-transparencia-viagens-2023) |---
+
+---
+
 ## 📊 Estatísticas GitHub
 
 <p align="left">
