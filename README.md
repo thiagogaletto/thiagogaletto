@@ -85,8 +85,8 @@ Mais de **10 anos de experiência** em BI, analytics, visualização de dados e 
 | Projeto | Descrição | Link |
 |---|---|---|
 | 🧮 Complete Statistical Analysis with Python | 13 técnicas estatísticas aplicadas — Pearson, R², RFM, Cohort, Regressão OLS, t-test e mais | [ver projeto →](https://thiagogaletto.github.io/analise-estatistica-completa-python) |
-| 🏙️ Pearson Correlation – Brazilian HDI | Correlação GDP × IDHM em 5.567 municípios brasileiros — impacto de outliers no coeficiente | [ver projeto →](https://thiagogaletto.github.io/analise-correlacao-associacao-idhm-brasil) |
-| 🚚 Spearman Correlation – Logistics Operations | Análise diagnóstica de operação logística — correlação Volumes × Frete (0,929) | [ver projeto →](https://thiagogaletto.github.io/analise-diagnostica-logistica) |
+| 🏙️ Pearson Correlation – Brazilian HDI | Correlação GDP × IDHM em 5.567 municípios brasileiros — impacto de outliers no coeficiente | [ver projeto →](https://thiagogaletto.github.io/analise-pearson-idhm-brasil) |
+| 🚚 Spearman Correlation – Logistics Operations | Análise diagnóstica de operação logística — correlação Volumes × Frete (0,929) | [ver projeto →](https://thiagogaletto.github.io/analise-spearman-logistica) |
 | 🏦 Bank Marketing Analysis | EDA de perfil de clientes de campanha bancária — 9.684 clientes, taxa de conversão 49,3% | [ver projeto →](https://thiagogaletto.github.io/analise-exploratoria-bank-marketing) |
 | ✈️ Government Travel Transparency | Análise exploratória de viagens a serviço do Governo Federal em 2023 com Python | [ver projeto →](https://thiagogaletto.github.io/portal-transparencia-viagens-2023) |---
 
